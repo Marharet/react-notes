@@ -1,5 +1,5 @@
 # Learning React
-This project was created to improve my skills in React JS. It is react note. You can reach this page by 
+This project was created to improve my skills in React JS. It is react note. You can reach this page by https://marharet.github.io/react-notes/
 
 ## Available Scripts
 
